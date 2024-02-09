@@ -1,0 +1,14 @@
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\bin\Debug\net8.0\Calculate final GPA.exe
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\bin\Debug\net8.0\Calculate final GPA.deps.json
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\bin\Debug\net8.0\Calculate final GPA.runtimeconfig.json
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\bin\Debug\net8.0\Calculate final GPA.dll
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\bin\Debug\net8.0\Calculate final GPA.pdb
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\obj\Debug\net8.0\Calculate final GPA.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\obj\Debug\net8.0\Calculate final GPA.AssemblyInfoInputs.cache
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\obj\Debug\net8.0\Calculate final GPA.AssemblyInfo.cs
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\obj\Debug\net8.0\Calculate final GPA.csproj.CoreCompileInputs.cache
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\obj\Debug\net8.0\Calculate final GPA.dll
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\obj\Debug\net8.0\refint\Calculate final GPA.dll
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\obj\Debug\net8.0\Calculate final GPA.pdb
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\obj\Debug\net8.0\Calculate final GPA.genruntimeconfig.cache
+D:\GitHub-Repository\Microsoft-Learn---Guided project - Calculate final GPA\Calculate final GPA\obj\Debug\net8.0\ref\Calculate final GPA.dll
